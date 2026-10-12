@@ -115,7 +115,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hoangsu-dev&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%"/>
-  <img src="https://leetcard.jacoblin.cool/hoangsu?theme=dark&font=JetBrains%20Mono&ext=contest" width="49%"/>
+  <img src="https://leetcard.jacoblin.cool/hoangsu?theme=dark&font=JetBrains%20Mono&ext=contest&v=2" width="49%"/>
 </p>
 
 ---
